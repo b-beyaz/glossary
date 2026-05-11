@@ -1,8 +1,8 @@
 ---
 title: Servis Ağı
 status: Completed
-category: technology
-tags: ["networking", "", ""]
+category: teknoloji
+tags: ["ağ kurma", "", ""]
 ---
 
 [Mikroservis](/microservices-architecture/) dünyasında, uygulamalar bir ağ üzerinden iletişim kuran daha küçük [servisler](/service/) halinde parçalara ayrılır.
